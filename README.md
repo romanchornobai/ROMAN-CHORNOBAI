@@ -1,2 +1,2 @@
 # ROMAN-CHORNOBAI
-My personal projects
+My personal projects, easy level
